@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/temaweb10/todo-app/static/css/main.97d2dd72.css",
-    "main.js": "/temaweb10/todo-app/static/js/main.e305ebd7.js",
-    "index.html": "/temaweb10/todo-app/index.html",
-    "main.97d2dd72.css.map": "/temaweb10/todo-app/static/css/main.97d2dd72.css.map",
-    "main.e305ebd7.js.map": "/temaweb10/todo-app/static/js/main.e305ebd7.js.map"
+    "main.css": "./static/css/main.97d2dd72.css",
+    "main.js": "./static/js/main.e305ebd7.js",
+    "index.html": "./index.html",
+    "main.97d2dd72.css.map": "./static/css/main.97d2dd72.css.map",
+    "main.e305ebd7.js.map": "./static/js/main.e305ebd7.js.map"
   },
   "entrypoints": [
     "static/css/main.97d2dd72.css",
